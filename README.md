@@ -1,2 +1,3 @@
 # Project-Management-Course
-Kumpulan dokumen tugas mata kuliah manajemen proyek.
+Kumpulan dokumen dari tugas mata kuliah manajemen proyek.
+Teknik Informatika UNPAR 2018
