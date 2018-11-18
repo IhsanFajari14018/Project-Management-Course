@@ -1,0 +1,7 @@
+1. Spesifikasi Perangkat Lunak
+2. WBS & Work Package
+3. Diagram Pert - Jaringan Pekerjaan
+4. Jadwal - Gantt Chart
+5. Struktur Organisasi Project
+6. RAM
+7. Rencana Eksekusi Project
