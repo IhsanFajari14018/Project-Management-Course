@@ -1,1 +1,5 @@
 ## FASE 2 berisikan :
+1. Spesifikasi Website (fungsional dan non-fungsional)
+2. Konten Website
+3. Prototype Website
+4. Manajemen Resiko
